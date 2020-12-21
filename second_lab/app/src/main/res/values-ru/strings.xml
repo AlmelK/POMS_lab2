@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="num1">Число 1</string>
+    <string name="num2">Число 2</string>
+    <string name="button_add">Сложить</string>
+    <string name="toast_war">Пожалуйста введите число</string>
+</resources>

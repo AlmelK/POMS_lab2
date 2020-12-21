@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">second_lab</string>
+    <string name="num1">number 1</string>
+    <string name="num2">number 2</string>
+    <string name="button_add">Add</string>
+    <string name="toast_war">Please enter number</string>
+</resources>
